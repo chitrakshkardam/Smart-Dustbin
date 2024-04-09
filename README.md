@@ -29,3 +29,6 @@ LED indicators provide visual feedback regarding the status of the system operat
 Successfully implemented a smart dustbin system, offering automated waste disposal capabilities and enhancing user convenience.
 Demonstrated the effectiveness of utilizing ultrasonic sensors and servo motors for real-time waste management applications.
 Received positive feedback regarding the efficiency and reliability of the smart dustbin system.
+
+# Circuit Diagram
+![WhatsApp Image 2024-04-09 at 4 16 24 PM](https://github.com/chitrakshkardam/Smart-Dustbin/assets/117617336/1c02d987-f0c8-4a4f-96d3-e7bbe9c3e87f)
